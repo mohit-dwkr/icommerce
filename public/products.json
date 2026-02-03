@@ -1,0 +1,3002 @@
+[
+  {
+    "id": 1,
+    "title": "Wrist Watch",
+    "description": "High-quality wrist watch by LG with premium build and performance.",
+    "price": "\u20b986018",
+    "category": "fashion",
+    "brand": "LG",
+    "rating": 4.2,
+    "stock": 98,
+    "thumbnail": "https://i.dummyjson.com/data/products/18/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/16/1.jpg",
+      "https://i.dummyjson.com/data/products/22/2.jpg"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Smartwatch",
+    "description": "High-quality smartwatch by Apple with premium build and performance.",
+    "price": "\u20b964416",
+    "category": "electronics",
+    "brand": "Apple",
+    "rating": 4.9,
+    "stock": 33,
+    "thumbnail": "https://i.dummyjson.com/data/products/29/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/11/1.jpg",
+      "https://i.dummyjson.com/data/products/16/2.jpg"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Leather Jacket",
+    "description": "High-quality leather jacket by Philips with premium build and performance.",
+    "price": "\u20b996683",
+    "category": "fashion",
+    "brand": "Philips",
+    "rating": 3.9,
+    "stock": 94,
+    "thumbnail": "https://i.dummyjson.com/data/products/13/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/12/1.jpg",
+      "https://i.dummyjson.com/data/products/30/2.jpg"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Shampoo",
+    "description": "High-quality shampoo by Sony with premium build and performance.",
+    "price": "\u20b965050",
+    "category": "beauty",
+    "brand": "Sony",
+    "rating": 3.8,
+    "stock": 93,
+    "thumbnail": "https://i.dummyjson.com/data/products/14/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/7/1.jpg",
+      "https://i.dummyjson.com/data/products/28/2.jpg"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Shampoo",
+    "description": "High-quality shampoo by WoodCraft with premium build and performance.",
+    "price": "\u20b940265",
+    "category": "beauty",
+    "brand": "WoodCraft",
+    "rating": 4.2,
+    "stock": 155,
+    "thumbnail": "https://i.dummyjson.com/data/products/13/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/19/1.jpg",
+      "https://i.dummyjson.com/data/products/3/2.jpg"
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Smartphone",
+    "description": "High-quality smartphone by Apple with premium build and performance.",
+    "price": "\u20b980974",
+    "category": "electronics",
+    "brand": "Apple",
+    "rating": 4.2,
+    "stock": 59,
+    "thumbnail": "https://i.dummyjson.com/data/products/5/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/7/1.jpg",
+      "https://i.dummyjson.com/data/products/12/2.jpg"
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Perfume",
+    "description": "High-quality perfume by Loreal with premium build and performance.",
+    "price": "\u20b958394",
+    "category": "beauty",
+    "brand": "Loreal",
+    "rating": 3.4,
+    "stock": 137,
+    "thumbnail": "https://i.dummyjson.com/data/products/15/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/16/1.jpg",
+      "https://i.dummyjson.com/data/products/18/2.jpg"
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Wrist Watch",
+    "description": "High-quality wrist watch by H&M with premium build and performance.",
+    "price": "\u20b99155",
+    "category": "fashion",
+    "brand": "H&M",
+    "rating": 3.1,
+    "stock": 121,
+    "thumbnail": "https://i.dummyjson.com/data/products/3/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/25/1.jpg",
+      "https://i.dummyjson.com/data/products/13/2.jpg"
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Bed Frame",
+    "description": "High-quality bed frame by Apple with premium build and performance.",
+    "price": "\u20b969245",
+    "category": "furniture",
+    "brand": "Apple",
+    "rating": 3.5,
+    "stock": 41,
+    "thumbnail": "https://i.dummyjson.com/data/products/23/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/23/1.jpg",
+      "https://i.dummyjson.com/data/products/26/2.jpg"
+    ]
+  },
+  {
+    "id": 10,
+    "title": "Smartwatch",
+    "description": "High-quality smartwatch by H&M with premium build and performance.",
+    "price": "\u20b930720",
+    "category": "electronics",
+    "brand": "H&M",
+    "rating": 4.4,
+    "stock": 92,
+    "thumbnail": "https://i.dummyjson.com/data/products/6/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/16/1.jpg",
+      "https://i.dummyjson.com/data/products/9/2.jpg"
+    ]
+  },
+  {
+    "id": 11,
+    "title": "Wardrobe",
+    "description": "High-quality wardrobe by Loreal with premium build and performance.",
+    "price": "\u20b990673",
+    "category": "furniture",
+    "brand": "Loreal",
+    "rating": 4.2,
+    "stock": 98,
+    "thumbnail": "https://i.dummyjson.com/data/products/6/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/27/1.jpg",
+      "https://i.dummyjson.com/data/products/4/2.jpg"
+    ]
+  },
+  {
+    "id": 12,
+    "title": "Wardrobe",
+    "description": "High-quality wardrobe by Boat with premium build and performance.",
+    "price": "\u20b932171",
+    "category": "furniture",
+    "brand": "Boat",
+    "rating": 4.9,
+    "stock": 77,
+    "thumbnail": "https://i.dummyjson.com/data/products/29/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/4/1.jpg",
+      "https://i.dummyjson.com/data/products/28/2.jpg"
+    ]
+  },
+  {
+    "id": 13,
+    "title": "Leather Jacket",
+    "description": "High-quality leather jacket by H&M with premium build and performance.",
+    "price": "\u20b987980",
+    "category": "fashion",
+    "brand": "H&M",
+    "rating": 3.8,
+    "stock": 23,
+    "thumbnail": "https://i.dummyjson.com/data/products/8/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/16/1.jpg",
+      "https://i.dummyjson.com/data/products/26/2.jpg"
+    ]
+  },
+  {
+    "id": 14,
+    "title": "Office Chair",
+    "description": "High-quality office chair by Nestle with premium build and performance.",
+    "price": "\u20b993171",
+    "category": "furniture",
+    "brand": "Nestle",
+    "rating": 3.0,
+    "stock": 120,
+    "thumbnail": "https://i.dummyjson.com/data/products/4/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/22/1.jpg",
+      "https://i.dummyjson.com/data/products/21/2.jpg"
+    ]
+  },
+  {
+    "id": 15,
+    "title": "Instant Coffee",
+    "description": "High-quality instant coffee by WoodCraft with premium build and performance.",
+    "price": "\u20b990732",
+    "category": "grocery",
+    "brand": "WoodCraft",
+    "rating": 3.4,
+    "stock": 183,
+    "thumbnail": "https://i.dummyjson.com/data/products/22/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/23/1.jpg",
+      "https://i.dummyjson.com/data/products/1/2.jpg"
+    ]
+  },
+  {
+    "id": 16,
+    "title": "Wardrobe",
+    "description": "High-quality wardrobe by Puma with premium build and performance.",
+    "price": "\u20b967043",
+    "category": "furniture",
+    "brand": "Puma",
+    "rating": 3.8,
+    "stock": 89,
+    "thumbnail": "https://i.dummyjson.com/data/products/13/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/1/1.jpg",
+      "https://i.dummyjson.com/data/products/22/2.jpg"
+    ]
+  },
+  {
+    "id": 17,
+    "title": "Women's Dress",
+    "description": "High-quality women's dress by Adidas with premium build and performance.",
+    "price": "\u20b97121",
+    "category": "fashion",
+    "brand": "Adidas",
+    "rating": 3.9,
+    "stock": 67,
+    "thumbnail": "https://i.dummyjson.com/data/products/10/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/17/1.jpg",
+      "https://i.dummyjson.com/data/products/11/2.jpg"
+    ]
+  },
+  {
+    "id": 18,
+    "title": "Sofa Set",
+    "description": "High-quality sofa set by Adidas with premium build and performance.",
+    "price": "\u20b986548",
+    "category": "furniture",
+    "brand": "Adidas",
+    "rating": 4.0,
+    "stock": 181,
+    "thumbnail": "https://i.dummyjson.com/data/products/17/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/13/1.jpg",
+      "https://i.dummyjson.com/data/products/23/2.jpg"
+    ]
+  },
+  {
+    "id": 19,
+    "title": "Wardrobe",
+    "description": "High-quality wardrobe by Samsung with premium build and performance.",
+    "price": "\u20b940966",
+    "category": "furniture",
+    "brand": "Samsung",
+    "rating": 3.7,
+    "stock": 186,
+    "thumbnail": "https://i.dummyjson.com/data/products/30/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/15/1.jpg",
+      "https://i.dummyjson.com/data/products/27/2.jpg"
+    ]
+  },
+  {
+    "id": 20,
+    "title": "Men's T-Shirt",
+    "description": "High-quality men's t-shirt by Nestle with premium build and performance.",
+    "price": "\u20b92592",
+    "category": "fashion",
+    "brand": "Nestle",
+    "rating": 4.4,
+    "stock": 77,
+    "thumbnail": "https://i.dummyjson.com/data/products/1/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/26/1.jpg",
+      "https://i.dummyjson.com/data/products/29/2.jpg"
+    ]
+  },
+  {
+    "id": 21,
+    "title": "Perfume",
+    "description": "High-quality perfume by H&M with premium build and performance.",
+    "price": "\u20b925593",
+    "category": "beauty",
+    "brand": "H&M",
+    "rating": 4.9,
+    "stock": 72,
+    "thumbnail": "https://i.dummyjson.com/data/products/16/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/14/1.jpg",
+      "https://i.dummyjson.com/data/products/25/2.jpg"
+    ]
+  },
+  {
+    "id": 22,
+    "title": "Face Wash",
+    "description": "High-quality face wash by Loreal with premium build and performance.",
+    "price": "\u20b972213",
+    "category": "beauty",
+    "brand": "Loreal",
+    "rating": 4.9,
+    "stock": 174,
+    "thumbnail": "https://i.dummyjson.com/data/products/14/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/12/1.jpg",
+      "https://i.dummyjson.com/data/products/10/2.jpg"
+    ]
+  },
+  {
+    "id": 23,
+    "title": "Dining Table",
+    "description": "High-quality dining table by Adidas with premium build and performance.",
+    "price": "\u20b912500",
+    "category": "furniture",
+    "brand": "Adidas",
+    "rating": 3.3,
+    "stock": 37,
+    "thumbnail": "https://i.dummyjson.com/data/products/18/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/5/1.jpg",
+      "https://i.dummyjson.com/data/products/14/2.jpg"
+    ]
+  },
+  {
+    "id": 24,
+    "title": "Hair Serum",
+    "description": "High-quality hair serum by Samsung with premium build and performance.",
+    "price": "\u20b934632",
+    "category": "beauty",
+    "brand": "Samsung",
+    "rating": 4.2,
+    "stock": 160,
+    "thumbnail": "https://i.dummyjson.com/data/products/8/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/12/1.jpg",
+      "https://i.dummyjson.com/data/products/9/2.jpg"
+    ]
+  },
+  {
+    "id": 25,
+    "title": "Organic Rice",
+    "description": "High-quality organic rice by Boat with premium build and performance.",
+    "price": "\u20b969898",
+    "category": "grocery",
+    "brand": "Boat",
+    "rating": 3.8,
+    "stock": 50,
+    "thumbnail": "https://i.dummyjson.com/data/products/16/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/14/1.jpg",
+      "https://i.dummyjson.com/data/products/18/2.jpg"
+    ]
+  },
+  {
+    "id": 26,
+    "title": "Smartphone",
+    "description": "High-quality smartphone by Sony with premium build and performance.",
+    "price": "\u20b987139",
+    "category": "electronics",
+    "brand": "Sony",
+    "rating": 4.4,
+    "stock": 20,
+    "thumbnail": "https://i.dummyjson.com/data/products/16/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/21/1.jpg",
+      "https://i.dummyjson.com/data/products/6/2.jpg"
+    ]
+  },
+  {
+    "id": 27,
+    "title": "Bluetooth Speaker",
+    "description": "High-quality bluetooth speaker by Philips with premium build and performance.",
+    "price": "\u20b94622",
+    "category": "electronics",
+    "brand": "Philips",
+    "rating": 3.1,
+    "stock": 122,
+    "thumbnail": "https://i.dummyjson.com/data/products/4/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/16/1.jpg",
+      "https://i.dummyjson.com/data/products/26/2.jpg"
+    ]
+  },
+  {
+    "id": 28,
+    "title": "Hair Serum",
+    "description": "High-quality hair serum by Mi with premium build and performance.",
+    "price": "\u20b940502",
+    "category": "beauty",
+    "brand": "Mi",
+    "rating": 3.4,
+    "stock": 158,
+    "thumbnail": "https://i.dummyjson.com/data/products/21/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/6/1.jpg",
+      "https://i.dummyjson.com/data/products/3/2.jpg"
+    ]
+  },
+  {
+    "id": 29,
+    "title": "Laptop",
+    "description": "High-quality laptop by Mi with premium build and performance.",
+    "price": "\u20b952491",
+    "category": "electronics",
+    "brand": "Mi",
+    "rating": 3.1,
+    "stock": 59,
+    "thumbnail": "https://i.dummyjson.com/data/products/3/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/11/1.jpg",
+      "https://i.dummyjson.com/data/products/13/2.jpg"
+    ]
+  },
+  {
+    "id": 30,
+    "title": "Instant Coffee",
+    "description": "High-quality instant coffee by Philips with premium build and performance.",
+    "price": "\u20b968388",
+    "category": "grocery",
+    "brand": "Philips",
+    "rating": 3.2,
+    "stock": 175,
+    "thumbnail": "https://i.dummyjson.com/data/products/7/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/13/1.jpg",
+      "https://i.dummyjson.com/data/products/2/2.jpg"
+    ]
+  },
+  {
+    "id": 31,
+    "title": "Laptop",
+    "description": "High-quality laptop by Mi with premium build and performance.",
+    "price": "\u20b992006",
+    "category": "electronics",
+    "brand": "Mi",
+    "rating": 4.6,
+    "stock": 93,
+    "thumbnail": "https://i.dummyjson.com/data/products/6/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/4/1.jpg",
+      "https://i.dummyjson.com/data/products/4/2.jpg"
+    ]
+  },
+  {
+    "id": 32,
+    "title": "Leather Jacket",
+    "description": "High-quality leather jacket by Philips with premium build and performance.",
+    "price": "\u20b926704",
+    "category": "fashion",
+    "brand": "Philips",
+    "rating": 3.1,
+    "stock": 128,
+    "thumbnail": "https://i.dummyjson.com/data/products/5/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/20/1.jpg",
+      "https://i.dummyjson.com/data/products/18/2.jpg"
+    ]
+  },
+  {
+    "id": 33,
+    "title": "Wrist Watch",
+    "description": "High-quality wrist watch by Boat with premium build and performance.",
+    "price": "\u20b980313",
+    "category": "fashion",
+    "brand": "Boat",
+    "rating": 4.9,
+    "stock": 45,
+    "thumbnail": "https://i.dummyjson.com/data/products/28/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/15/1.jpg",
+      "https://i.dummyjson.com/data/products/11/2.jpg"
+    ]
+  },
+  {
+    "id": 34,
+    "title": "Bookshelf",
+    "description": "High-quality bookshelf by Apple with premium build and performance.",
+    "price": "\u20b947491",
+    "category": "furniture",
+    "brand": "Apple",
+    "rating": 3.4,
+    "stock": 114,
+    "thumbnail": "https://i.dummyjson.com/data/products/17/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/27/1.jpg",
+      "https://i.dummyjson.com/data/products/4/2.jpg"
+    ]
+  },
+  {
+    "id": 35,
+    "title": "Lipstick",
+    "description": "High-quality lipstick by Mi with premium build and performance.",
+    "price": "\u20b924299",
+    "category": "beauty",
+    "brand": "Mi",
+    "rating": 3.5,
+    "stock": 103,
+    "thumbnail": "https://i.dummyjson.com/data/products/29/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/30/1.jpg",
+      "https://i.dummyjson.com/data/products/27/2.jpg"
+    ]
+  },
+  {
+    "id": 36,
+    "title": "Hair Serum",
+    "description": "High-quality hair serum by Sony with premium build and performance.",
+    "price": "\u20b929765",
+    "category": "beauty",
+    "brand": "Sony",
+    "rating": 3.1,
+    "stock": 97,
+    "thumbnail": "https://i.dummyjson.com/data/products/28/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/15/1.jpg",
+      "https://i.dummyjson.com/data/products/8/2.jpg"
+    ]
+  },
+  {
+    "id": 37,
+    "title": "Bluetooth Speaker",
+    "description": "High-quality bluetooth speaker by Philips with premium build and performance.",
+    "price": "\u20b93736",
+    "category": "electronics",
+    "brand": "Philips",
+    "rating": 3.8,
+    "stock": 149,
+    "thumbnail": "https://i.dummyjson.com/data/products/29/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/18/1.jpg",
+      "https://i.dummyjson.com/data/products/18/2.jpg"
+    ]
+  },
+  {
+    "id": 38,
+    "title": "Sofa Set",
+    "description": "High-quality sofa set by Samsung with premium build and performance.",
+    "price": "\u20b920724",
+    "category": "furniture",
+    "brand": "Samsung",
+    "rating": 4.8,
+    "stock": 172,
+    "thumbnail": "https://i.dummyjson.com/data/products/1/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/15/1.jpg",
+      "https://i.dummyjson.com/data/products/2/2.jpg"
+    ]
+  },
+  {
+    "id": 39,
+    "title": "Pasta Pack",
+    "description": "High-quality pasta pack by LG with premium build and performance.",
+    "price": "\u20b999897",
+    "category": "grocery",
+    "brand": "LG",
+    "rating": 4.4,
+    "stock": 175,
+    "thumbnail": "https://i.dummyjson.com/data/products/15/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/6/1.jpg",
+      "https://i.dummyjson.com/data/products/2/2.jpg"
+    ]
+  },
+  {
+    "id": 40,
+    "title": "Jeans",
+    "description": "High-quality jeans by Loreal with premium build and performance.",
+    "price": "\u20b995503",
+    "category": "fashion",
+    "brand": "Loreal",
+    "rating": 3.7,
+    "stock": 104,
+    "thumbnail": "https://i.dummyjson.com/data/products/15/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/23/1.jpg",
+      "https://i.dummyjson.com/data/products/4/2.jpg"
+    ]
+  },
+  {
+    "id": 41,
+    "title": "Women's Dress",
+    "description": "High-quality women's dress by Philips with premium build and performance.",
+    "price": "\u20b914157",
+    "category": "fashion",
+    "brand": "Philips",
+    "rating": 3.1,
+    "stock": 132,
+    "thumbnail": "https://i.dummyjson.com/data/products/25/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/10/1.jpg",
+      "https://i.dummyjson.com/data/products/13/2.jpg"
+    ]
+  },
+  {
+    "id": 42,
+    "title": "Instant Coffee",
+    "description": "High-quality instant coffee by Boat with premium build and performance.",
+    "price": "\u20b934223",
+    "category": "grocery",
+    "brand": "Boat",
+    "rating": 3.9,
+    "stock": 151,
+    "thumbnail": "https://i.dummyjson.com/data/products/25/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/1/1.jpg",
+      "https://i.dummyjson.com/data/products/30/2.jpg"
+    ]
+  },
+  {
+    "id": 43,
+    "title": "Women's Dress",
+    "description": "High-quality women's dress by Adidas with premium build and performance.",
+    "price": "\u20b98608",
+    "category": "fashion",
+    "brand": "Adidas",
+    "rating": 3.4,
+    "stock": 85,
+    "thumbnail": "https://i.dummyjson.com/data/products/10/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/29/1.jpg",
+      "https://i.dummyjson.com/data/products/6/2.jpg"
+    ]
+  },
+  {
+    "id": 44,
+    "title": "Sofa Set",
+    "description": "High-quality sofa set by Loreal with premium build and performance.",
+    "price": "\u20b930132",
+    "category": "furniture",
+    "brand": "Loreal",
+    "rating": 3.6,
+    "stock": 49,
+    "thumbnail": "https://i.dummyjson.com/data/products/3/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/5/1.jpg",
+      "https://i.dummyjson.com/data/products/19/2.jpg"
+    ]
+  },
+  {
+    "id": 45,
+    "title": "Wardrobe",
+    "description": "High-quality wardrobe by Loreal with premium build and performance.",
+    "price": "\u20b92829",
+    "category": "furniture",
+    "brand": "Loreal",
+    "rating": 3.7,
+    "stock": 178,
+    "thumbnail": "https://i.dummyjson.com/data/products/26/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/9/1.jpg",
+      "https://i.dummyjson.com/data/products/5/2.jpg"
+    ]
+  },
+  {
+    "id": 46,
+    "title": "Sneakers",
+    "description": "High-quality sneakers by LG with premium build and performance.",
+    "price": "\u20b92978",
+    "category": "fashion",
+    "brand": "LG",
+    "rating": 3.6,
+    "stock": 187,
+    "thumbnail": "https://i.dummyjson.com/data/products/9/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/3/1.jpg",
+      "https://i.dummyjson.com/data/products/21/2.jpg"
+    ]
+  },
+  {
+    "id": 47,
+    "title": "Smartphone",
+    "description": "High-quality smartphone by Sony with premium build and performance.",
+    "price": "\u20b971520",
+    "category": "electronics",
+    "brand": "Sony",
+    "rating": 3.2,
+    "stock": 198,
+    "thumbnail": "https://i.dummyjson.com/data/products/30/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/24/1.jpg",
+      "https://i.dummyjson.com/data/products/20/2.jpg"
+    ]
+  },
+  {
+    "id": 48,
+    "title": "Shampoo",
+    "description": "High-quality shampoo by Nestle with premium build and performance.",
+    "price": "\u20b913659",
+    "category": "beauty",
+    "brand": "Nestle",
+    "rating": 4.4,
+    "stock": 150,
+    "thumbnail": "https://i.dummyjson.com/data/products/25/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/10/1.jpg",
+      "https://i.dummyjson.com/data/products/2/2.jpg"
+    ]
+  },
+  {
+    "id": 49,
+    "title": "Olive Oil",
+    "description": "High-quality olive oil by Loreal with premium build and performance.",
+    "price": "\u20b949966",
+    "category": "grocery",
+    "brand": "Loreal",
+    "rating": 3.7,
+    "stock": 77,
+    "thumbnail": "https://i.dummyjson.com/data/products/18/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/18/1.jpg",
+      "https://i.dummyjson.com/data/products/20/2.jpg"
+    ]
+  },
+  {
+    "id": 50,
+    "title": "Jeans",
+    "description": "High-quality jeans by Loreal with premium build and performance.",
+    "price": "\u20b995653",
+    "category": "fashion",
+    "brand": "Loreal",
+    "rating": 3.0,
+    "stock": 123,
+    "thumbnail": "https://i.dummyjson.com/data/products/14/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/27/1.jpg",
+      "https://i.dummyjson.com/data/products/23/2.jpg"
+    ]
+  },
+  {
+    "id": 51,
+    "title": "Bluetooth Speaker",
+    "description": "High-quality bluetooth speaker by Mi with premium build and performance.",
+    "price": "\u20b923901",
+    "category": "electronics",
+    "brand": "Mi",
+    "rating": 4.2,
+    "stock": 106,
+    "thumbnail": "https://i.dummyjson.com/data/products/5/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/11/1.jpg",
+      "https://i.dummyjson.com/data/products/28/2.jpg"
+    ]
+  },
+  {
+    "id": 52,
+    "title": "Bed Frame",
+    "description": "High-quality bed frame by Sony with premium build and performance.",
+    "price": "\u20b981517",
+    "category": "furniture",
+    "brand": "Sony",
+    "rating": 4.3,
+    "stock": 41,
+    "thumbnail": "https://i.dummyjson.com/data/products/30/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/14/1.jpg",
+      "https://i.dummyjson.com/data/products/18/2.jpg"
+    ]
+  },
+  {
+    "id": 53,
+    "title": "Pasta Pack",
+    "description": "High-quality pasta pack by Adidas with premium build and performance.",
+    "price": "\u20b96542",
+    "category": "grocery",
+    "brand": "Adidas",
+    "rating": 4.3,
+    "stock": 68,
+    "thumbnail": "https://i.dummyjson.com/data/products/19/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/1/1.jpg",
+      "https://i.dummyjson.com/data/products/20/2.jpg"
+    ]
+  },
+  {
+    "id": 54,
+    "title": "Perfume",
+    "description": "High-quality perfume by WoodCraft with premium build and performance.",
+    "price": "\u20b979411",
+    "category": "beauty",
+    "brand": "WoodCraft",
+    "rating": 3.7,
+    "stock": 67,
+    "thumbnail": "https://i.dummyjson.com/data/products/4/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/4/1.jpg",
+      "https://i.dummyjson.com/data/products/16/2.jpg"
+    ]
+  },
+  {
+    "id": 55,
+    "title": "Organic Rice",
+    "description": "High-quality organic rice by WoodCraft with premium build and performance.",
+    "price": "\u20b939985",
+    "category": "grocery",
+    "brand": "WoodCraft",
+    "rating": 3.2,
+    "stock": 129,
+    "thumbnail": "https://i.dummyjson.com/data/products/27/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/14/1.jpg",
+      "https://i.dummyjson.com/data/products/26/2.jpg"
+    ]
+  },
+  {
+    "id": 56,
+    "title": "Instant Coffee",
+    "description": "High-quality instant coffee by Philips with premium build and performance.",
+    "price": "\u20b983261",
+    "category": "grocery",
+    "brand": "Philips",
+    "rating": 4.0,
+    "stock": 107,
+    "thumbnail": "https://i.dummyjson.com/data/products/6/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/17/1.jpg",
+      "https://i.dummyjson.com/data/products/18/2.jpg"
+    ]
+  },
+  {
+    "id": 57,
+    "title": "Bookshelf",
+    "description": "High-quality bookshelf by Sony with premium build and performance.",
+    "price": "\u20b910304",
+    "category": "furniture",
+    "brand": "Sony",
+    "rating": 3.6,
+    "stock": 78,
+    "thumbnail": "https://i.dummyjson.com/data/products/3/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/25/1.jpg",
+      "https://i.dummyjson.com/data/products/26/2.jpg"
+    ]
+  },
+  {
+    "id": 58,
+    "title": "Body Lotion",
+    "description": "High-quality body lotion by Nestle with premium build and performance.",
+    "price": "\u20b997301",
+    "category": "beauty",
+    "brand": "Nestle",
+    "rating": 3.9,
+    "stock": 200,
+    "thumbnail": "https://i.dummyjson.com/data/products/1/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/27/1.jpg",
+      "https://i.dummyjson.com/data/products/23/2.jpg"
+    ]
+  },
+  {
+    "id": 59,
+    "title": "Wrist Watch",
+    "description": "High-quality wrist watch by Puma with premium build and performance.",
+    "price": "\u20b972654",
+    "category": "fashion",
+    "brand": "Puma",
+    "rating": 4.3,
+    "stock": 143,
+    "thumbnail": "https://i.dummyjson.com/data/products/30/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/17/1.jpg",
+      "https://i.dummyjson.com/data/products/1/2.jpg"
+    ]
+  },
+  {
+    "id": 60,
+    "title": "Women's Dress",
+    "description": "High-quality women's dress by Nestle with premium build and performance.",
+    "price": "\u20b993343",
+    "category": "fashion",
+    "brand": "Nestle",
+    "rating": 4.1,
+    "stock": 180,
+    "thumbnail": "https://i.dummyjson.com/data/products/25/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/30/1.jpg",
+      "https://i.dummyjson.com/data/products/23/2.jpg"
+    ]
+  },
+  {
+    "id": 61,
+    "title": "Bed Frame",
+    "description": "High-quality bed frame by Samsung with premium build and performance.",
+    "price": "\u20b952281",
+    "category": "furniture",
+    "brand": "Samsung",
+    "rating": 3.3,
+    "stock": 172,
+    "thumbnail": "https://i.dummyjson.com/data/products/27/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/20/1.jpg",
+      "https://i.dummyjson.com/data/products/12/2.jpg"
+    ]
+  },
+  {
+    "id": 62,
+    "title": "Peanut Butter",
+    "description": "High-quality peanut butter by H&M with premium build and performance.",
+    "price": "\u20b99931",
+    "category": "grocery",
+    "brand": "H&M",
+    "rating": 4.2,
+    "stock": 80,
+    "thumbnail": "https://i.dummyjson.com/data/products/16/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/11/1.jpg",
+      "https://i.dummyjson.com/data/products/10/2.jpg"
+    ]
+  },
+  {
+    "id": 63,
+    "title": "Organic Rice",
+    "description": "High-quality organic rice by Loreal with premium build and performance.",
+    "price": "\u20b996373",
+    "category": "grocery",
+    "brand": "Loreal",
+    "rating": 4.3,
+    "stock": 140,
+    "thumbnail": "https://i.dummyjson.com/data/products/27/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/15/1.jpg",
+      "https://i.dummyjson.com/data/products/21/2.jpg"
+    ]
+  },
+  {
+    "id": 64,
+    "title": "Face Wash",
+    "description": "High-quality face wash by Boat with premium build and performance.",
+    "price": "\u20b914099",
+    "category": "beauty",
+    "brand": "Boat",
+    "rating": 4.2,
+    "stock": 39,
+    "thumbnail": "https://i.dummyjson.com/data/products/30/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/7/1.jpg",
+      "https://i.dummyjson.com/data/products/20/2.jpg"
+    ]
+  },
+  {
+    "id": 65,
+    "title": "Smartwatch",
+    "description": "High-quality smartwatch by Sony with premium build and performance.",
+    "price": "\u20b930461",
+    "category": "electronics",
+    "brand": "Sony",
+    "rating": 4.3,
+    "stock": 61,
+    "thumbnail": "https://i.dummyjson.com/data/products/16/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/23/1.jpg",
+      "https://i.dummyjson.com/data/products/21/2.jpg"
+    ]
+  },
+  {
+    "id": 66,
+    "title": "Smartwatch",
+    "description": "High-quality smartwatch by Samsung with premium build and performance.",
+    "price": "\u20b944500",
+    "category": "electronics",
+    "brand": "Samsung",
+    "rating": 4.2,
+    "stock": 174,
+    "thumbnail": "https://i.dummyjson.com/data/products/21/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/7/1.jpg",
+      "https://i.dummyjson.com/data/products/23/2.jpg"
+    ]
+  },
+  {
+    "id": 67,
+    "title": "Smartphone",
+    "description": "High-quality smartphone by Nike with premium build and performance.",
+    "price": "\u20b949677",
+    "category": "electronics",
+    "brand": "Nike",
+    "rating": 3.6,
+    "stock": 125,
+    "thumbnail": "https://i.dummyjson.com/data/products/15/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/18/1.jpg",
+      "https://i.dummyjson.com/data/products/26/2.jpg"
+    ]
+  },
+  {
+    "id": 68,
+    "title": "Pasta Pack",
+    "description": "High-quality pasta pack by Boat with premium build and performance.",
+    "price": "\u20b959296",
+    "category": "grocery",
+    "brand": "Boat",
+    "rating": 3.9,
+    "stock": 198,
+    "thumbnail": "https://i.dummyjson.com/data/products/11/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/28/1.jpg",
+      "https://i.dummyjson.com/data/products/15/2.jpg"
+    ]
+  },
+  {
+    "id": 69,
+    "title": "Wardrobe",
+    "description": "High-quality wardrobe by Loreal with premium build and performance.",
+    "price": "\u20b935214",
+    "category": "furniture",
+    "brand": "Loreal",
+    "rating": 3.9,
+    "stock": 181,
+    "thumbnail": "https://i.dummyjson.com/data/products/17/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/22/1.jpg",
+      "https://i.dummyjson.com/data/products/19/2.jpg"
+    ]
+  },
+  {
+    "id": 70,
+    "title": "Wireless Headphones",
+    "description": "High-quality wireless headphones by Adidas with premium build and performance.",
+    "price": "\u20b946166",
+    "category": "electronics",
+    "brand": "Adidas",
+    "rating": 3.5,
+    "stock": 100,
+    "thumbnail": "https://i.dummyjson.com/data/products/26/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/8/1.jpg",
+      "https://i.dummyjson.com/data/products/25/2.jpg"
+    ]
+  },
+  {
+    "id": 71,
+    "title": "Leather Jacket",
+    "description": "High-quality leather jacket by Adidas with premium build and performance.",
+    "price": "\u20b958925",
+    "category": "fashion",
+    "brand": "Adidas",
+    "rating": 4.1,
+    "stock": 92,
+    "thumbnail": "https://i.dummyjson.com/data/products/21/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/21/1.jpg",
+      "https://i.dummyjson.com/data/products/14/2.jpg"
+    ]
+  },
+  {
+    "id": 72,
+    "title": "Camera",
+    "description": "High-quality camera by Mi with premium build and performance.",
+    "price": "\u20b93513",
+    "category": "electronics",
+    "brand": "Mi",
+    "rating": 3.6,
+    "stock": 46,
+    "thumbnail": "https://i.dummyjson.com/data/products/23/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/28/1.jpg",
+      "https://i.dummyjson.com/data/products/7/2.jpg"
+    ]
+  },
+  {
+    "id": 73,
+    "title": "Peanut Butter",
+    "description": "High-quality peanut butter by Philips with premium build and performance.",
+    "price": "\u20b970821",
+    "category": "grocery",
+    "brand": "Philips",
+    "rating": 3.6,
+    "stock": 157,
+    "thumbnail": "https://i.dummyjson.com/data/products/21/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/3/1.jpg",
+      "https://i.dummyjson.com/data/products/24/2.jpg"
+    ]
+  },
+  {
+    "id": 74,
+    "title": "Jeans",
+    "description": "High-quality jeans by Nestle with premium build and performance.",
+    "price": "\u20b93130",
+    "category": "fashion",
+    "brand": "Nestle",
+    "rating": 3.2,
+    "stock": 184,
+    "thumbnail": "https://i.dummyjson.com/data/products/2/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/3/1.jpg",
+      "https://i.dummyjson.com/data/products/8/2.jpg"
+    ]
+  },
+  {
+    "id": 75,
+    "title": "Peanut Butter",
+    "description": "High-quality peanut butter by Samsung with premium build and performance.",
+    "price": "\u20b964812",
+    "category": "grocery",
+    "brand": "Samsung",
+    "rating": 3.8,
+    "stock": 100,
+    "thumbnail": "https://i.dummyjson.com/data/products/4/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/15/1.jpg",
+      "https://i.dummyjson.com/data/products/29/2.jpg"
+    ]
+  },
+  {
+    "id": 76,
+    "title": "Instant Coffee",
+    "description": "High-quality instant coffee by Boat with premium build and performance.",
+    "price": "\u20b915154",
+    "category": "grocery",
+    "brand": "Boat",
+    "rating": 4.5,
+    "stock": 54,
+    "thumbnail": "https://i.dummyjson.com/data/products/14/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/23/1.jpg",
+      "https://i.dummyjson.com/data/products/24/2.jpg"
+    ]
+  },
+  {
+    "id": 77,
+    "title": "Face Wash",
+    "description": "High-quality face wash by Puma with premium build and performance.",
+    "price": "\u20b95532",
+    "category": "beauty",
+    "brand": "Puma",
+    "rating": 3.0,
+    "stock": 97,
+    "thumbnail": "https://i.dummyjson.com/data/products/10/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/18/1.jpg",
+      "https://i.dummyjson.com/data/products/6/2.jpg"
+    ]
+  },
+  {
+    "id": 78,
+    "title": "Jeans",
+    "description": "High-quality jeans by Puma with premium build and performance.",
+    "price": "\u20b962200",
+    "category": "fashion",
+    "brand": "Puma",
+    "rating": 4.2,
+    "stock": 138,
+    "thumbnail": "https://i.dummyjson.com/data/products/18/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/23/1.jpg",
+      "https://i.dummyjson.com/data/products/15/2.jpg"
+    ]
+  },
+  {
+    "id": 79,
+    "title": "Wrist Watch",
+    "description": "High-quality wrist watch by LG with premium build and performance.",
+    "price": "\u20b932837",
+    "category": "fashion",
+    "brand": "LG",
+    "rating": 3.4,
+    "stock": 194,
+    "thumbnail": "https://i.dummyjson.com/data/products/29/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/15/1.jpg",
+      "https://i.dummyjson.com/data/products/1/2.jpg"
+    ]
+  },
+  {
+    "id": 80,
+    "title": "Hair Serum",
+    "description": "High-quality hair serum by Nike with premium build and performance.",
+    "price": "\u20b966557",
+    "category": "beauty",
+    "brand": "Nike",
+    "rating": 4.4,
+    "stock": 139,
+    "thumbnail": "https://i.dummyjson.com/data/products/29/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/21/1.jpg",
+      "https://i.dummyjson.com/data/products/15/2.jpg"
+    ]
+  },
+  {
+    "id": 81,
+    "title": "Office Chair",
+    "description": "High-quality office chair by Sony with premium build and performance.",
+    "price": "\u20b991700",
+    "category": "furniture",
+    "brand": "Sony",
+    "rating": 4.5,
+    "stock": 175,
+    "thumbnail": "https://i.dummyjson.com/data/products/17/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/23/1.jpg",
+      "https://i.dummyjson.com/data/products/3/2.jpg"
+    ]
+  },
+  {
+    "id": 82,
+    "title": "Instant Coffee",
+    "description": "High-quality instant coffee by Samsung with premium build and performance.",
+    "price": "\u20b920435",
+    "category": "grocery",
+    "brand": "Samsung",
+    "rating": 3.1,
+    "stock": 172,
+    "thumbnail": "https://i.dummyjson.com/data/products/4/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/13/1.jpg",
+      "https://i.dummyjson.com/data/products/16/2.jpg"
+    ]
+  },
+  {
+    "id": 83,
+    "title": "Bookshelf",
+    "description": "High-quality bookshelf by Loreal with premium build and performance.",
+    "price": "\u20b954975",
+    "category": "furniture",
+    "brand": "Loreal",
+    "rating": 4.1,
+    "stock": 31,
+    "thumbnail": "https://i.dummyjson.com/data/products/5/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/8/1.jpg",
+      "https://i.dummyjson.com/data/products/9/2.jpg"
+    ]
+  },
+  {
+    "id": 84,
+    "title": "Wardrobe",
+    "description": "High-quality wardrobe by Nestle with premium build and performance.",
+    "price": "\u20b956948",
+    "category": "furniture",
+    "brand": "Nestle",
+    "rating": 3.4,
+    "stock": 106,
+    "thumbnail": "https://i.dummyjson.com/data/products/27/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/15/1.jpg",
+      "https://i.dummyjson.com/data/products/14/2.jpg"
+    ]
+  },
+  {
+    "id": 85,
+    "title": "Camera",
+    "description": "High-quality camera by H&M with premium build and performance.",
+    "price": "\u20b978555",
+    "category": "electronics",
+    "brand": "H&M",
+    "rating": 4.0,
+    "stock": 148,
+    "thumbnail": "https://i.dummyjson.com/data/products/19/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/27/1.jpg",
+      "https://i.dummyjson.com/data/products/23/2.jpg"
+    ]
+  },
+  {
+    "id": 86,
+    "title": "Wireless Headphones",
+    "description": "High-quality wireless headphones by Boat with premium build and performance.",
+    "price": "\u20b978848",
+    "category": "electronics",
+    "brand": "Boat",
+    "rating": 3.2,
+    "stock": 32,
+    "thumbnail": "https://i.dummyjson.com/data/products/9/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/22/1.jpg",
+      "https://i.dummyjson.com/data/products/4/2.jpg"
+    ]
+  },
+  {
+    "id": 87,
+    "title": "Laptop",
+    "description": "High-quality laptop by LG with premium build and performance.",
+    "price": "\u20b916545",
+    "category": "electronics",
+    "brand": "LG",
+    "rating": 4.2,
+    "stock": 126,
+    "thumbnail": "https://i.dummyjson.com/data/products/10/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/9/1.jpg",
+      "https://i.dummyjson.com/data/products/5/2.jpg"
+    ]
+  },
+  {
+    "id": 88,
+    "title": "Peanut Butter",
+    "description": "High-quality peanut butter by Mi with premium build and performance.",
+    "price": "\u20b998987",
+    "category": "grocery",
+    "brand": "Mi",
+    "rating": 4.9,
+    "stock": 94,
+    "thumbnail": "https://i.dummyjson.com/data/products/10/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/17/1.jpg",
+      "https://i.dummyjson.com/data/products/22/2.jpg"
+    ]
+  },
+  {
+    "id": 89,
+    "title": "Lipstick",
+    "description": "High-quality lipstick by WoodCraft with premium build and performance.",
+    "price": "\u20b962402",
+    "category": "beauty",
+    "brand": "WoodCraft",
+    "rating": 3.7,
+    "stock": 97,
+    "thumbnail": "https://i.dummyjson.com/data/products/10/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/7/1.jpg",
+      "https://i.dummyjson.com/data/products/25/2.jpg"
+    ]
+  },
+  {
+    "id": 90,
+    "title": "Green Tea",
+    "description": "High-quality green tea by Sony with premium build and performance.",
+    "price": "\u20b911347",
+    "category": "grocery",
+    "brand": "Sony",
+    "rating": 3.6,
+    "stock": 57,
+    "thumbnail": "https://i.dummyjson.com/data/products/9/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/2/1.jpg",
+      "https://i.dummyjson.com/data/products/16/2.jpg"
+    ]
+  },
+  {
+    "id": 91,
+    "title": "Smartwatch",
+    "description": "High-quality smartwatch by Loreal with premium build and performance.",
+    "price": "\u20b963877",
+    "category": "electronics",
+    "brand": "Loreal",
+    "rating": 4.0,
+    "stock": 14,
+    "thumbnail": "https://i.dummyjson.com/data/products/28/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/27/1.jpg",
+      "https://i.dummyjson.com/data/products/25/2.jpg"
+    ]
+  },
+  {
+    "id": 92,
+    "title": "Face Wash",
+    "description": "High-quality face wash by Mi with premium build and performance.",
+    "price": "\u20b99760",
+    "category": "beauty",
+    "brand": "Mi",
+    "rating": 4.5,
+    "stock": 79,
+    "thumbnail": "https://i.dummyjson.com/data/products/12/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/27/1.jpg",
+      "https://i.dummyjson.com/data/products/4/2.jpg"
+    ]
+  },
+  {
+    "id": 93,
+    "title": "Dining Table",
+    "description": "High-quality dining table by Adidas with premium build and performance.",
+    "price": "\u20b954773",
+    "category": "furniture",
+    "brand": "Adidas",
+    "rating": 3.6,
+    "stock": 166,
+    "thumbnail": "https://i.dummyjson.com/data/products/15/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/1/1.jpg",
+      "https://i.dummyjson.com/data/products/4/2.jpg"
+    ]
+  },
+  {
+    "id": 94,
+    "title": "Shampoo",
+    "description": "High-quality shampoo by Nike with premium build and performance.",
+    "price": "\u20b981377",
+    "category": "beauty",
+    "brand": "Nike",
+    "rating": 3.7,
+    "stock": 61,
+    "thumbnail": "https://i.dummyjson.com/data/products/16/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/13/1.jpg",
+      "https://i.dummyjson.com/data/products/10/2.jpg"
+    ]
+  },
+  {
+    "id": 95,
+    "title": "Bookshelf",
+    "description": "High-quality bookshelf by Boat with premium build and performance.",
+    "price": "\u20b965867",
+    "category": "furniture",
+    "brand": "Boat",
+    "rating": 4.2,
+    "stock": 142,
+    "thumbnail": "https://i.dummyjson.com/data/products/13/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/15/1.jpg",
+      "https://i.dummyjson.com/data/products/7/2.jpg"
+    ]
+  },
+  {
+    "id": 96,
+    "title": "Face Wash",
+    "description": "High-quality face wash by Samsung with premium build and performance.",
+    "price": "\u20b963247",
+    "category": "beauty",
+    "brand": "Samsung",
+    "rating": 3.7,
+    "stock": 45,
+    "thumbnail": "https://i.dummyjson.com/data/products/1/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/23/1.jpg",
+      "https://i.dummyjson.com/data/products/17/2.jpg"
+    ]
+  },
+  {
+    "id": 97,
+    "title": "Green Tea",
+    "description": "High-quality green tea by H&M with premium build and performance.",
+    "price": "\u20b987331",
+    "category": "grocery",
+    "brand": "H&M",
+    "rating": 4.9,
+    "stock": 94,
+    "thumbnail": "https://i.dummyjson.com/data/products/19/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/13/1.jpg",
+      "https://i.dummyjson.com/data/products/19/2.jpg"
+    ]
+  },
+  {
+    "id": 98,
+    "title": "Instant Coffee",
+    "description": "High-quality instant coffee by LG with premium build and performance.",
+    "price": "\u20b941323",
+    "category": "grocery",
+    "brand": "LG",
+    "rating": 4.9,
+    "stock": 142,
+    "thumbnail": "https://i.dummyjson.com/data/products/18/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/18/1.jpg",
+      "https://i.dummyjson.com/data/products/22/2.jpg"
+    ]
+  },
+  {
+    "id": 99,
+    "title": "Lipstick",
+    "description": "High-quality lipstick by Apple with premium build and performance.",
+    "price": "\u20b994772",
+    "category": "beauty",
+    "brand": "Apple",
+    "rating": 4.5,
+    "stock": 141,
+    "thumbnail": "https://i.dummyjson.com/data/products/5/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/29/1.jpg",
+      "https://i.dummyjson.com/data/products/8/2.jpg"
+    ]
+  },
+  {
+    "id": 100,
+    "title": "Camera",
+    "description": "High-quality camera by Samsung with premium build and performance.",
+    "price": "\u20b93493",
+    "category": "electronics",
+    "brand": "Samsung",
+    "rating": 4.2,
+    "stock": 187,
+    "thumbnail": "https://i.dummyjson.com/data/products/2/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/2/1.jpg",
+      "https://i.dummyjson.com/data/products/30/2.jpg"
+    ]
+  },
+  {
+    "id": 101,
+    "title": "Women's Dress",
+    "description": "High-quality women's dress by Mi with premium build and performance.",
+    "price": "\u20b944288",
+    "category": "fashion",
+    "brand": "Mi",
+    "rating": 4.9,
+    "stock": 72,
+    "thumbnail": "https://i.dummyjson.com/data/products/25/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/26/1.jpg",
+      "https://i.dummyjson.com/data/products/22/2.jpg"
+    ]
+  },
+  {
+    "id": 102,
+    "title": "Body Lotion",
+    "description": "High-quality body lotion by Philips with premium build and performance.",
+    "price": "\u20b978936",
+    "category": "beauty",
+    "brand": "Philips",
+    "rating": 4.0,
+    "stock": 151,
+    "thumbnail": "https://i.dummyjson.com/data/products/13/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/6/1.jpg",
+      "https://i.dummyjson.com/data/products/28/2.jpg"
+    ]
+  },
+  {
+    "id": 103,
+    "title": "Sneakers",
+    "description": "High-quality sneakers by Philips with premium build and performance.",
+    "price": "\u20b9903",
+    "category": "fashion",
+    "brand": "Philips",
+    "rating": 4.5,
+    "stock": 156,
+    "thumbnail": "https://i.dummyjson.com/data/products/29/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/16/1.jpg",
+      "https://i.dummyjson.com/data/products/29/2.jpg"
+    ]
+  },
+  {
+    "id": 104,
+    "title": "Office Chair",
+    "description": "High-quality office chair by Puma with premium build and performance.",
+    "price": "\u20b981787",
+    "category": "furniture",
+    "brand": "Puma",
+    "rating": 4.2,
+    "stock": 102,
+    "thumbnail": "https://i.dummyjson.com/data/products/25/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/5/1.jpg",
+      "https://i.dummyjson.com/data/products/1/2.jpg"
+    ]
+  },
+  {
+    "id": 105,
+    "title": "Lipstick",
+    "description": "High-quality lipstick by Loreal with premium build and performance.",
+    "price": "\u20b948337",
+    "category": "beauty",
+    "brand": "Loreal",
+    "rating": 3.0,
+    "stock": 62,
+    "thumbnail": "https://i.dummyjson.com/data/products/10/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/18/1.jpg",
+      "https://i.dummyjson.com/data/products/6/2.jpg"
+    ]
+  },
+  {
+    "id": 106,
+    "title": "Sneakers",
+    "description": "High-quality sneakers by Apple with premium build and performance.",
+    "price": "\u20b912243",
+    "category": "fashion",
+    "brand": "Apple",
+    "rating": 3.0,
+    "stock": 58,
+    "thumbnail": "https://i.dummyjson.com/data/products/30/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/13/1.jpg",
+      "https://i.dummyjson.com/data/products/2/2.jpg"
+    ]
+  },
+  {
+    "id": 107,
+    "title": "Body Lotion",
+    "description": "High-quality body lotion by WoodCraft with premium build and performance.",
+    "price": "\u20b997678",
+    "category": "beauty",
+    "brand": "WoodCraft",
+    "rating": 4.1,
+    "stock": 168,
+    "thumbnail": "https://i.dummyjson.com/data/products/17/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/18/1.jpg",
+      "https://i.dummyjson.com/data/products/19/2.jpg"
+    ]
+  },
+  {
+    "id": 108,
+    "title": "Instant Coffee",
+    "description": "High-quality instant coffee by Sony with premium build and performance.",
+    "price": "\u20b984971",
+    "category": "grocery",
+    "brand": "Sony",
+    "rating": 3.3,
+    "stock": 32,
+    "thumbnail": "https://i.dummyjson.com/data/products/17/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/8/1.jpg",
+      "https://i.dummyjson.com/data/products/12/2.jpg"
+    ]
+  },
+  {
+    "id": 109,
+    "title": "Jeans",
+    "description": "High-quality jeans by Sony with premium build and performance.",
+    "price": "\u20b954408",
+    "category": "fashion",
+    "brand": "Sony",
+    "rating": 3.5,
+    "stock": 133,
+    "thumbnail": "https://i.dummyjson.com/data/products/28/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/25/1.jpg",
+      "https://i.dummyjson.com/data/products/16/2.jpg"
+    ]
+  },
+  {
+    "id": 110,
+    "title": "Olive Oil",
+    "description": "High-quality olive oil by Adidas with premium build and performance.",
+    "price": "\u20b996726",
+    "category": "grocery",
+    "brand": "Adidas",
+    "rating": 4.2,
+    "stock": 68,
+    "thumbnail": "https://i.dummyjson.com/data/products/10/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/30/1.jpg",
+      "https://i.dummyjson.com/data/products/20/2.jpg"
+    ]
+  },
+  {
+    "id": 111,
+    "title": "Sneakers",
+    "description": "High-quality sneakers by WoodCraft with premium build and performance.",
+    "price": "\u20b925746",
+    "category": "fashion",
+    "brand": "WoodCraft",
+    "rating": 3.6,
+    "stock": 128,
+    "thumbnail": "https://i.dummyjson.com/data/products/18/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/11/1.jpg",
+      "https://i.dummyjson.com/data/products/25/2.jpg"
+    ]
+  },
+  {
+    "id": 112,
+    "title": "Shampoo",
+    "description": "High-quality shampoo by Samsung with premium build and performance.",
+    "price": "\u20b927961",
+    "category": "beauty",
+    "brand": "Samsung",
+    "rating": 4.3,
+    "stock": 124,
+    "thumbnail": "https://i.dummyjson.com/data/products/14/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/23/1.jpg",
+      "https://i.dummyjson.com/data/products/9/2.jpg"
+    ]
+  },
+  {
+    "id": 113,
+    "title": "Pasta Pack",
+    "description": "High-quality pasta pack by H&M with premium build and performance.",
+    "price": "\u20b961819",
+    "category": "grocery",
+    "brand": "H&M",
+    "rating": 4.9,
+    "stock": 156,
+    "thumbnail": "https://i.dummyjson.com/data/products/24/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/29/1.jpg",
+      "https://i.dummyjson.com/data/products/2/2.jpg"
+    ]
+  },
+  {
+    "id": 114,
+    "title": "Women's Dress",
+    "description": "High-quality women's dress by Boat with premium build and performance.",
+    "price": "\u20b985360",
+    "category": "fashion",
+    "brand": "Boat",
+    "rating": 3.4,
+    "stock": 97,
+    "thumbnail": "https://i.dummyjson.com/data/products/5/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/30/1.jpg",
+      "https://i.dummyjson.com/data/products/26/2.jpg"
+    ]
+  },
+  {
+    "id": 115,
+    "title": "Wardrobe",
+    "description": "High-quality wardrobe by Adidas with premium build and performance.",
+    "price": "\u20b95852",
+    "category": "furniture",
+    "brand": "Adidas",
+    "rating": 3.7,
+    "stock": 175,
+    "thumbnail": "https://i.dummyjson.com/data/products/25/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/24/1.jpg",
+      "https://i.dummyjson.com/data/products/17/2.jpg"
+    ]
+  },
+  {
+    "id": 116,
+    "title": "Shampoo",
+    "description": "High-quality shampoo by Apple with premium build and performance.",
+    "price": "\u20b975957",
+    "category": "beauty",
+    "brand": "Apple",
+    "rating": 3.6,
+    "stock": 33,
+    "thumbnail": "https://i.dummyjson.com/data/products/11/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/29/1.jpg",
+      "https://i.dummyjson.com/data/products/25/2.jpg"
+    ]
+  },
+  {
+    "id": 117,
+    "title": "Green Tea",
+    "description": "High-quality green tea by WoodCraft with premium build and performance.",
+    "price": "\u20b917196",
+    "category": "grocery",
+    "brand": "WoodCraft",
+    "rating": 3.8,
+    "stock": 34,
+    "thumbnail": "https://i.dummyjson.com/data/products/20/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/21/1.jpg",
+      "https://i.dummyjson.com/data/products/24/2.jpg"
+    ]
+  },
+  {
+    "id": 118,
+    "title": "Pasta Pack",
+    "description": "High-quality pasta pack by Mi with premium build and performance.",
+    "price": "\u20b915494",
+    "category": "grocery",
+    "brand": "Mi",
+    "rating": 3.0,
+    "stock": 80,
+    "thumbnail": "https://i.dummyjson.com/data/products/26/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/19/1.jpg",
+      "https://i.dummyjson.com/data/products/28/2.jpg"
+    ]
+  },
+  {
+    "id": 119,
+    "title": "Green Tea",
+    "description": "High-quality green tea by Apple with premium build and performance.",
+    "price": "\u20b999901",
+    "category": "grocery",
+    "brand": "Apple",
+    "rating": 4.2,
+    "stock": 30,
+    "thumbnail": "https://i.dummyjson.com/data/products/14/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/5/1.jpg",
+      "https://i.dummyjson.com/data/products/23/2.jpg"
+    ]
+  },
+  {
+    "id": 120,
+    "title": "Shampoo",
+    "description": "High-quality shampoo by Philips with premium build and performance.",
+    "price": "\u20b932777",
+    "category": "beauty",
+    "brand": "Philips",
+    "rating": 3.7,
+    "stock": 100,
+    "thumbnail": "https://i.dummyjson.com/data/products/22/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/3/1.jpg",
+      "https://i.dummyjson.com/data/products/9/2.jpg"
+    ]
+  },
+  {
+    "id": 121,
+    "title": "Body Lotion",
+    "description": "High-quality body lotion by WoodCraft with premium build and performance.",
+    "price": "\u20b924162",
+    "category": "beauty",
+    "brand": "WoodCraft",
+    "rating": 4.3,
+    "stock": 109,
+    "thumbnail": "https://i.dummyjson.com/data/products/23/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/25/1.jpg",
+      "https://i.dummyjson.com/data/products/21/2.jpg"
+    ]
+  },
+  {
+    "id": 122,
+    "title": "Pasta Pack",
+    "description": "High-quality pasta pack by Nestle with premium build and performance.",
+    "price": "\u20b965918",
+    "category": "grocery",
+    "brand": "Nestle",
+    "rating": 4.8,
+    "stock": 32,
+    "thumbnail": "https://i.dummyjson.com/data/products/5/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/29/1.jpg",
+      "https://i.dummyjson.com/data/products/6/2.jpg"
+    ]
+  },
+  {
+    "id": 123,
+    "title": "Hair Serum",
+    "description": "High-quality hair serum by Nestle with premium build and performance.",
+    "price": "\u20b976101",
+    "category": "beauty",
+    "brand": "Nestle",
+    "rating": 4.8,
+    "stock": 184,
+    "thumbnail": "https://i.dummyjson.com/data/products/11/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/23/1.jpg",
+      "https://i.dummyjson.com/data/products/20/2.jpg"
+    ]
+  },
+  {
+    "id": 124,
+    "title": "Smartphone",
+    "description": "High-quality smartphone by Puma with premium build and performance.",
+    "price": "\u20b978209",
+    "category": "electronics",
+    "brand": "Puma",
+    "rating": 3.0,
+    "stock": 192,
+    "thumbnail": "https://i.dummyjson.com/data/products/11/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/5/1.jpg",
+      "https://i.dummyjson.com/data/products/12/2.jpg"
+    ]
+  },
+  {
+    "id": 125,
+    "title": "Olive Oil",
+    "description": "High-quality olive oil by Mi with premium build and performance.",
+    "price": "\u20b949243",
+    "category": "grocery",
+    "brand": "Mi",
+    "rating": 3.6,
+    "stock": 111,
+    "thumbnail": "https://i.dummyjson.com/data/products/16/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/23/1.jpg",
+      "https://i.dummyjson.com/data/products/30/2.jpg"
+    ]
+  },
+  {
+    "id": 126,
+    "title": "Shampoo",
+    "description": "High-quality shampoo by LG with premium build and performance.",
+    "price": "\u20b931903",
+    "category": "beauty",
+    "brand": "LG",
+    "rating": 3.7,
+    "stock": 32,
+    "thumbnail": "https://i.dummyjson.com/data/products/12/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/26/1.jpg",
+      "https://i.dummyjson.com/data/products/21/2.jpg"
+    ]
+  },
+  {
+    "id": 127,
+    "title": "Women's Dress",
+    "description": "High-quality women's dress by LG with premium build and performance.",
+    "price": "\u20b916528",
+    "category": "fashion",
+    "brand": "LG",
+    "rating": 3.9,
+    "stock": 24,
+    "thumbnail": "https://i.dummyjson.com/data/products/4/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/13/1.jpg",
+      "https://i.dummyjson.com/data/products/8/2.jpg"
+    ]
+  },
+  {
+    "id": 128,
+    "title": "Jeans",
+    "description": "High-quality jeans by H&M with premium build and performance.",
+    "price": "\u20b988122",
+    "category": "fashion",
+    "brand": "H&M",
+    "rating": 4.4,
+    "stock": 102,
+    "thumbnail": "https://i.dummyjson.com/data/products/3/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/30/1.jpg",
+      "https://i.dummyjson.com/data/products/28/2.jpg"
+    ]
+  },
+  {
+    "id": 129,
+    "title": "Jeans",
+    "description": "High-quality jeans by Nike with premium build and performance.",
+    "price": "\u20b986767",
+    "category": "fashion",
+    "brand": "Nike",
+    "rating": 4.2,
+    "stock": 93,
+    "thumbnail": "https://i.dummyjson.com/data/products/3/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/25/1.jpg",
+      "https://i.dummyjson.com/data/products/7/2.jpg"
+    ]
+  },
+  {
+    "id": 130,
+    "title": "Leather Jacket",
+    "description": "High-quality leather jacket by Samsung with premium build and performance.",
+    "price": "\u20b914086",
+    "category": "fashion",
+    "brand": "Samsung",
+    "rating": 4.7,
+    "stock": 75,
+    "thumbnail": "https://i.dummyjson.com/data/products/8/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/8/1.jpg",
+      "https://i.dummyjson.com/data/products/27/2.jpg"
+    ]
+  },
+  {
+    "id": 131,
+    "title": "Dining Table",
+    "description": "High-quality dining table by Adidas with premium build and performance.",
+    "price": "\u20b925984",
+    "category": "furniture",
+    "brand": "Adidas",
+    "rating": 4.0,
+    "stock": 121,
+    "thumbnail": "https://i.dummyjson.com/data/products/13/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/23/1.jpg",
+      "https://i.dummyjson.com/data/products/23/2.jpg"
+    ]
+  },
+  {
+    "id": 132,
+    "title": "Smartphone",
+    "description": "High-quality smartphone by Apple with premium build and performance.",
+    "price": "\u20b960902",
+    "category": "electronics",
+    "brand": "Apple",
+    "rating": 3.2,
+    "stock": 112,
+    "thumbnail": "https://i.dummyjson.com/data/products/5/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/17/1.jpg",
+      "https://i.dummyjson.com/data/products/20/2.jpg"
+    ]
+  },
+  {
+    "id": 133,
+    "title": "Wardrobe",
+    "description": "High-quality wardrobe by Nestle with premium build and performance.",
+    "price": "\u20b984309",
+    "category": "furniture",
+    "brand": "Nestle",
+    "rating": 4.7,
+    "stock": 139,
+    "thumbnail": "https://i.dummyjson.com/data/products/12/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/5/1.jpg",
+      "https://i.dummyjson.com/data/products/18/2.jpg"
+    ]
+  },
+  {
+    "id": 134,
+    "title": "Pasta Pack",
+    "description": "High-quality pasta pack by H&M with premium build and performance.",
+    "price": "\u20b997209",
+    "category": "grocery",
+    "brand": "H&M",
+    "rating": 3.5,
+    "stock": 159,
+    "thumbnail": "https://i.dummyjson.com/data/products/1/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/12/1.jpg",
+      "https://i.dummyjson.com/data/products/25/2.jpg"
+    ]
+  },
+  {
+    "id": 135,
+    "title": "Smartphone",
+    "description": "High-quality smartphone by Samsung with premium build and performance.",
+    "price": "\u20b998229",
+    "category": "electronics",
+    "brand": "Samsung",
+    "rating": 4.7,
+    "stock": 156,
+    "thumbnail": "https://i.dummyjson.com/data/products/14/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/14/1.jpg",
+      "https://i.dummyjson.com/data/products/15/2.jpg"
+    ]
+  },
+  {
+    "id": 136,
+    "title": "Face Wash",
+    "description": "High-quality face wash by Loreal with premium build and performance.",
+    "price": "\u20b986273",
+    "category": "beauty",
+    "brand": "Loreal",
+    "rating": 4.1,
+    "stock": 160,
+    "thumbnail": "https://i.dummyjson.com/data/products/20/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/21/1.jpg",
+      "https://i.dummyjson.com/data/products/5/2.jpg"
+    ]
+  },
+  {
+    "id": 137,
+    "title": "Bookshelf",
+    "description": "High-quality bookshelf by H&M with premium build and performance.",
+    "price": "\u20b991192",
+    "category": "furniture",
+    "brand": "H&M",
+    "rating": 3.7,
+    "stock": 184,
+    "thumbnail": "https://i.dummyjson.com/data/products/16/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/4/1.jpg",
+      "https://i.dummyjson.com/data/products/22/2.jpg"
+    ]
+  },
+  {
+    "id": 138,
+    "title": "Shampoo",
+    "description": "High-quality shampoo by H&M with premium build and performance.",
+    "price": "\u20b986712",
+    "category": "beauty",
+    "brand": "H&M",
+    "rating": 3.3,
+    "stock": 150,
+    "thumbnail": "https://i.dummyjson.com/data/products/29/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/21/1.jpg",
+      "https://i.dummyjson.com/data/products/10/2.jpg"
+    ]
+  },
+  {
+    "id": 139,
+    "title": "Organic Rice",
+    "description": "High-quality organic rice by LG with premium build and performance.",
+    "price": "\u20b989605",
+    "category": "grocery",
+    "brand": "LG",
+    "rating": 4.5,
+    "stock": 66,
+    "thumbnail": "https://i.dummyjson.com/data/products/8/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/8/1.jpg",
+      "https://i.dummyjson.com/data/products/15/2.jpg"
+    ]
+  },
+  {
+    "id": 140,
+    "title": "Office Chair",
+    "description": "High-quality office chair by Samsung with premium build and performance.",
+    "price": "\u20b931178",
+    "category": "furniture",
+    "brand": "Samsung",
+    "rating": 3.1,
+    "stock": 41,
+    "thumbnail": "https://i.dummyjson.com/data/products/19/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/14/1.jpg",
+      "https://i.dummyjson.com/data/products/25/2.jpg"
+    ]
+  },
+  {
+    "id": 141,
+    "title": "Women's Dress",
+    "description": "High-quality women's dress by Apple with premium build and performance.",
+    "price": "\u20b945421",
+    "category": "fashion",
+    "brand": "Apple",
+    "rating": 3.4,
+    "stock": 149,
+    "thumbnail": "https://i.dummyjson.com/data/products/7/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/21/1.jpg",
+      "https://i.dummyjson.com/data/products/24/2.jpg"
+    ]
+  },
+  {
+    "id": 142,
+    "title": "Olive Oil",
+    "description": "High-quality olive oil by Loreal with premium build and performance.",
+    "price": "\u20b930397",
+    "category": "grocery",
+    "brand": "Loreal",
+    "rating": 3.0,
+    "stock": 150,
+    "thumbnail": "https://i.dummyjson.com/data/products/25/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/4/1.jpg",
+      "https://i.dummyjson.com/data/products/17/2.jpg"
+    ]
+  },
+  {
+    "id": 143,
+    "title": "Smartphone",
+    "description": "High-quality smartphone by Boat with premium build and performance.",
+    "price": "\u20b97702",
+    "category": "electronics",
+    "brand": "Boat",
+    "rating": 3.6,
+    "stock": 111,
+    "thumbnail": "https://i.dummyjson.com/data/products/27/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/3/1.jpg",
+      "https://i.dummyjson.com/data/products/3/2.jpg"
+    ]
+  },
+  {
+    "id": 144,
+    "title": "Laptop",
+    "description": "High-quality laptop by WoodCraft with premium build and performance.",
+    "price": "\u20b950761",
+    "category": "electronics",
+    "brand": "WoodCraft",
+    "rating": 4.8,
+    "stock": 177,
+    "thumbnail": "https://i.dummyjson.com/data/products/10/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/1/1.jpg",
+      "https://i.dummyjson.com/data/products/13/2.jpg"
+    ]
+  },
+  {
+    "id": 145,
+    "title": "Pasta Pack",
+    "description": "High-quality pasta pack by Sony with premium build and performance.",
+    "price": "\u20b924149",
+    "category": "grocery",
+    "brand": "Sony",
+    "rating": 4.1,
+    "stock": 177,
+    "thumbnail": "https://i.dummyjson.com/data/products/21/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/23/1.jpg",
+      "https://i.dummyjson.com/data/products/26/2.jpg"
+    ]
+  },
+  {
+    "id": 146,
+    "title": "Sneakers",
+    "description": "High-quality sneakers by Adidas with premium build and performance.",
+    "price": "\u20b931895",
+    "category": "fashion",
+    "brand": "Adidas",
+    "rating": 3.5,
+    "stock": 59,
+    "thumbnail": "https://i.dummyjson.com/data/products/2/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/26/1.jpg",
+      "https://i.dummyjson.com/data/products/4/2.jpg"
+    ]
+  },
+  {
+    "id": 147,
+    "title": "Shampoo",
+    "description": "High-quality shampoo by Loreal with premium build and performance.",
+    "price": "\u20b991221",
+    "category": "beauty",
+    "brand": "Loreal",
+    "rating": 4.0,
+    "stock": 59,
+    "thumbnail": "https://i.dummyjson.com/data/products/12/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/7/1.jpg",
+      "https://i.dummyjson.com/data/products/26/2.jpg"
+    ]
+  },
+  {
+    "id": 148,
+    "title": "Olive Oil",
+    "description": "High-quality olive oil by Sony with premium build and performance.",
+    "price": "\u20b934166",
+    "category": "grocery",
+    "brand": "Sony",
+    "rating": 4.8,
+    "stock": 26,
+    "thumbnail": "https://i.dummyjson.com/data/products/18/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/23/1.jpg",
+      "https://i.dummyjson.com/data/products/12/2.jpg"
+    ]
+  },
+  {
+    "id": 149,
+    "title": "Organic Rice",
+    "description": "High-quality organic rice by H&M with premium build and performance.",
+    "price": "\u20b937272",
+    "category": "grocery",
+    "brand": "H&M",
+    "rating": 4.5,
+    "stock": 16,
+    "thumbnail": "https://i.dummyjson.com/data/products/12/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/10/1.jpg",
+      "https://i.dummyjson.com/data/products/1/2.jpg"
+    ]
+  },
+  {
+    "id": 150,
+    "title": "Wrist Watch",
+    "description": "High-quality wrist watch by Loreal with premium build and performance.",
+    "price": "\u20b980239",
+    "category": "fashion",
+    "brand": "Loreal",
+    "rating": 4.5,
+    "stock": 183,
+    "thumbnail": "https://i.dummyjson.com/data/products/10/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/20/1.jpg",
+      "https://i.dummyjson.com/data/products/29/2.jpg"
+    ]
+  },
+  {
+    "id": 151,
+    "title": "Women's Dress",
+    "description": "High-quality women's dress by WoodCraft with premium build and performance.",
+    "price": "\u20b987629",
+    "category": "fashion",
+    "brand": "WoodCraft",
+    "rating": 3.4,
+    "stock": 43,
+    "thumbnail": "https://i.dummyjson.com/data/products/13/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/2/1.jpg",
+      "https://i.dummyjson.com/data/products/21/2.jpg"
+    ]
+  },
+  {
+    "id": 152,
+    "title": "Sofa Set",
+    "description": "High-quality sofa set by Nike with premium build and performance.",
+    "price": "\u20b992745",
+    "category": "furniture",
+    "brand": "Nike",
+    "rating": 3.1,
+    "stock": 133,
+    "thumbnail": "https://i.dummyjson.com/data/products/10/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/9/1.jpg",
+      "https://i.dummyjson.com/data/products/13/2.jpg"
+    ]
+  },
+  {
+    "id": 153,
+    "title": "Bookshelf",
+    "description": "High-quality bookshelf by Samsung with premium build and performance.",
+    "price": "\u20b963164",
+    "category": "furniture",
+    "brand": "Samsung",
+    "rating": 4.1,
+    "stock": 158,
+    "thumbnail": "https://i.dummyjson.com/data/products/2/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/18/1.jpg",
+      "https://i.dummyjson.com/data/products/24/2.jpg"
+    ]
+  },
+  {
+    "id": 154,
+    "title": "Hair Serum",
+    "description": "High-quality hair serum by Nestle with premium build and performance.",
+    "price": "\u20b917821",
+    "category": "beauty",
+    "brand": "Nestle",
+    "rating": 3.7,
+    "stock": 92,
+    "thumbnail": "https://i.dummyjson.com/data/products/15/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/23/1.jpg",
+      "https://i.dummyjson.com/data/products/21/2.jpg"
+    ]
+  },
+  {
+    "id": 155,
+    "title": "Smartwatch",
+    "description": "High-quality smartwatch by Nike with premium build and performance.",
+    "price": "\u20b9955",
+    "category": "electronics",
+    "brand": "Nike",
+    "rating": 3.0,
+    "stock": 142,
+    "thumbnail": "https://i.dummyjson.com/data/products/12/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/26/1.jpg",
+      "https://i.dummyjson.com/data/products/6/2.jpg"
+    ]
+  },
+  {
+    "id": 156,
+    "title": "Office Chair",
+    "description": "High-quality office chair by LG with premium build and performance.",
+    "price": "\u20b924620",
+    "category": "furniture",
+    "brand": "LG",
+    "rating": 3.5,
+    "stock": 136,
+    "thumbnail": "https://i.dummyjson.com/data/products/13/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/16/1.jpg",
+      "https://i.dummyjson.com/data/products/13/2.jpg"
+    ]
+  },
+  {
+    "id": 157,
+    "title": "Bluetooth Speaker",
+    "description": "High-quality bluetooth speaker by Nike with premium build and performance.",
+    "price": "\u20b986262",
+    "category": "electronics",
+    "brand": "Nike",
+    "rating": 3.4,
+    "stock": 46,
+    "thumbnail": "https://i.dummyjson.com/data/products/7/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/20/1.jpg",
+      "https://i.dummyjson.com/data/products/19/2.jpg"
+    ]
+  },
+  {
+    "id": 158,
+    "title": "Camera",
+    "description": "High-quality camera by Apple with premium build and performance.",
+    "price": "\u20b925144",
+    "category": "electronics",
+    "brand": "Apple",
+    "rating": 4.8,
+    "stock": 193,
+    "thumbnail": "https://i.dummyjson.com/data/products/4/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/17/1.jpg",
+      "https://i.dummyjson.com/data/products/2/2.jpg"
+    ]
+  },
+  {
+    "id": 159,
+    "title": "Shampoo",
+    "description": "High-quality shampoo by H&M with premium build and performance.",
+    "price": "\u20b954919",
+    "category": "beauty",
+    "brand": "H&M",
+    "rating": 4.3,
+    "stock": 173,
+    "thumbnail": "https://i.dummyjson.com/data/products/13/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/29/1.jpg",
+      "https://i.dummyjson.com/data/products/2/2.jpg"
+    ]
+  },
+  {
+    "id": 160,
+    "title": "Leather Jacket",
+    "description": "High-quality leather jacket by Loreal with premium build and performance.",
+    "price": "\u20b997818",
+    "category": "fashion",
+    "brand": "Loreal",
+    "rating": 4.0,
+    "stock": 90,
+    "thumbnail": "https://i.dummyjson.com/data/products/27/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/16/1.jpg",
+      "https://i.dummyjson.com/data/products/21/2.jpg"
+    ]
+  },
+  {
+    "id": 161,
+    "title": "Wardrobe",
+    "description": "High-quality wardrobe by Nestle with premium build and performance.",
+    "price": "\u20b980541",
+    "category": "furniture",
+    "brand": "Nestle",
+    "rating": 3.7,
+    "stock": 95,
+    "thumbnail": "https://i.dummyjson.com/data/products/27/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/14/1.jpg",
+      "https://i.dummyjson.com/data/products/24/2.jpg"
+    ]
+  },
+  {
+    "id": 162,
+    "title": "Olive Oil",
+    "description": "High-quality olive oil by Nike with premium build and performance.",
+    "price": "\u20b970242",
+    "category": "grocery",
+    "brand": "Nike",
+    "rating": 3.3,
+    "stock": 42,
+    "thumbnail": "https://i.dummyjson.com/data/products/22/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/23/1.jpg",
+      "https://i.dummyjson.com/data/products/15/2.jpg"
+    ]
+  },
+  {
+    "id": 163,
+    "title": "Bookshelf",
+    "description": "High-quality bookshelf by Nestle with premium build and performance.",
+    "price": "\u20b992215",
+    "category": "furniture",
+    "brand": "Nestle",
+    "rating": 3.2,
+    "stock": 189,
+    "thumbnail": "https://i.dummyjson.com/data/products/28/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/27/1.jpg",
+      "https://i.dummyjson.com/data/products/27/2.jpg"
+    ]
+  },
+  {
+    "id": 164,
+    "title": "Olive Oil",
+    "description": "High-quality olive oil by Sony with premium build and performance.",
+    "price": "\u20b920623",
+    "category": "grocery",
+    "brand": "Sony",
+    "rating": 3.3,
+    "stock": 181,
+    "thumbnail": "https://i.dummyjson.com/data/products/21/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/20/1.jpg",
+      "https://i.dummyjson.com/data/products/18/2.jpg"
+    ]
+  },
+  {
+    "id": 165,
+    "title": "Organic Rice",
+    "description": "High-quality organic rice by WoodCraft with premium build and performance.",
+    "price": "\u20b980928",
+    "category": "grocery",
+    "brand": "WoodCraft",
+    "rating": 4.9,
+    "stock": 111,
+    "thumbnail": "https://i.dummyjson.com/data/products/23/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/27/1.jpg",
+      "https://i.dummyjson.com/data/products/3/2.jpg"
+    ]
+  },
+  {
+    "id": 166,
+    "title": "Leather Jacket",
+    "description": "High-quality leather jacket by Loreal with premium build and performance.",
+    "price": "\u20b982029",
+    "category": "fashion",
+    "brand": "Loreal",
+    "rating": 3.5,
+    "stock": 11,
+    "thumbnail": "https://i.dummyjson.com/data/products/27/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/7/1.jpg",
+      "https://i.dummyjson.com/data/products/4/2.jpg"
+    ]
+  },
+  {
+    "id": 167,
+    "title": "Wireless Headphones",
+    "description": "High-quality wireless headphones by Mi with premium build and performance.",
+    "price": "\u20b944828",
+    "category": "electronics",
+    "brand": "Mi",
+    "rating": 3.4,
+    "stock": 30,
+    "thumbnail": "https://i.dummyjson.com/data/products/14/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/7/1.jpg",
+      "https://i.dummyjson.com/data/products/22/2.jpg"
+    ]
+  },
+  {
+    "id": 168,
+    "title": "Bookshelf",
+    "description": "High-quality bookshelf by WoodCraft with premium build and performance.",
+    "price": "\u20b948858",
+    "category": "furniture",
+    "brand": "WoodCraft",
+    "rating": 4.5,
+    "stock": 50,
+    "thumbnail": "https://i.dummyjson.com/data/products/23/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/6/1.jpg",
+      "https://i.dummyjson.com/data/products/27/2.jpg"
+    ]
+  },
+  {
+    "id": 169,
+    "title": "Lipstick",
+    "description": "High-quality lipstick by Sony with premium build and performance.",
+    "price": "\u20b942238",
+    "category": "beauty",
+    "brand": "Sony",
+    "rating": 4.6,
+    "stock": 41,
+    "thumbnail": "https://i.dummyjson.com/data/products/19/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/28/1.jpg",
+      "https://i.dummyjson.com/data/products/3/2.jpg"
+    ]
+  },
+  {
+    "id": 170,
+    "title": "Perfume",
+    "description": "High-quality perfume by Puma with premium build and performance.",
+    "price": "\u20b993647",
+    "category": "beauty",
+    "brand": "Puma",
+    "rating": 3.1,
+    "stock": 134,
+    "thumbnail": "https://i.dummyjson.com/data/products/21/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/12/1.jpg",
+      "https://i.dummyjson.com/data/products/6/2.jpg"
+    ]
+  },
+  {
+    "id": 171,
+    "title": "Office Chair",
+    "description": "High-quality office chair by Loreal with premium build and performance.",
+    "price": "\u20b995685",
+    "category": "furniture",
+    "brand": "Loreal",
+    "rating": 3.6,
+    "stock": 196,
+    "thumbnail": "https://i.dummyjson.com/data/products/23/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/21/1.jpg",
+      "https://i.dummyjson.com/data/products/25/2.jpg"
+    ]
+  },
+  {
+    "id": 172,
+    "title": "Shampoo",
+    "description": "High-quality shampoo by LG with premium build and performance.",
+    "price": "\u20b928092",
+    "category": "beauty",
+    "brand": "LG",
+    "rating": 3.4,
+    "stock": 183,
+    "thumbnail": "https://i.dummyjson.com/data/products/12/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/16/1.jpg",
+      "https://i.dummyjson.com/data/products/29/2.jpg"
+    ]
+  },
+  {
+    "id": 173,
+    "title": "Perfume",
+    "description": "High-quality perfume by WoodCraft with premium build and performance.",
+    "price": "\u20b989793",
+    "category": "beauty",
+    "brand": "WoodCraft",
+    "rating": 3.8,
+    "stock": 177,
+    "thumbnail": "https://i.dummyjson.com/data/products/21/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/11/1.jpg",
+      "https://i.dummyjson.com/data/products/8/2.jpg"
+    ]
+  },
+  {
+    "id": 174,
+    "title": "Face Wash",
+    "description": "High-quality face wash by LG with premium build and performance.",
+    "price": "\u20b911946",
+    "category": "beauty",
+    "brand": "LG",
+    "rating": 3.6,
+    "stock": 69,
+    "thumbnail": "https://i.dummyjson.com/data/products/9/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/23/1.jpg",
+      "https://i.dummyjson.com/data/products/27/2.jpg"
+    ]
+  },
+  {
+    "id": 175,
+    "title": "Sofa Set",
+    "description": "High-quality sofa set by Samsung with premium build and performance.",
+    "price": "\u20b921823",
+    "category": "furniture",
+    "brand": "Samsung",
+    "rating": 3.0,
+    "stock": 151,
+    "thumbnail": "https://i.dummyjson.com/data/products/23/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/20/1.jpg",
+      "https://i.dummyjson.com/data/products/21/2.jpg"
+    ]
+  },
+  {
+    "id": 176,
+    "title": "Bluetooth Speaker",
+    "description": "High-quality bluetooth speaker by Sony with premium build and performance.",
+    "price": "\u20b924963",
+    "category": "electronics",
+    "brand": "Sony",
+    "rating": 4.2,
+    "stock": 91,
+    "thumbnail": "https://i.dummyjson.com/data/products/27/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/21/1.jpg",
+      "https://i.dummyjson.com/data/products/18/2.jpg"
+    ]
+  },
+  {
+    "id": 177,
+    "title": "Pasta Pack",
+    "description": "High-quality pasta pack by WoodCraft with premium build and performance.",
+    "price": "\u20b971599",
+    "category": "grocery",
+    "brand": "WoodCraft",
+    "rating": 3.7,
+    "stock": 34,
+    "thumbnail": "https://i.dummyjson.com/data/products/25/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/1/1.jpg",
+      "https://i.dummyjson.com/data/products/17/2.jpg"
+    ]
+  },
+  {
+    "id": 178,
+    "title": "Wireless Headphones",
+    "description": "High-quality wireless headphones by Sony with premium build and performance.",
+    "price": "\u20b999672",
+    "category": "electronics",
+    "brand": "Sony",
+    "rating": 4.5,
+    "stock": 160,
+    "thumbnail": "https://i.dummyjson.com/data/products/24/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/20/1.jpg",
+      "https://i.dummyjson.com/data/products/30/2.jpg"
+    ]
+  },
+  {
+    "id": 179,
+    "title": "Jeans",
+    "description": "High-quality jeans by Apple with premium build and performance.",
+    "price": "\u20b929187",
+    "category": "fashion",
+    "brand": "Apple",
+    "rating": 4.5,
+    "stock": 63,
+    "thumbnail": "https://i.dummyjson.com/data/products/2/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/14/1.jpg",
+      "https://i.dummyjson.com/data/products/18/2.jpg"
+    ]
+  },
+  {
+    "id": 180,
+    "title": "Women's Dress",
+    "description": "High-quality women's dress by Loreal with premium build and performance.",
+    "price": "\u20b938801",
+    "category": "fashion",
+    "brand": "Loreal",
+    "rating": 3.4,
+    "stock": 40,
+    "thumbnail": "https://i.dummyjson.com/data/products/7/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/24/1.jpg",
+      "https://i.dummyjson.com/data/products/25/2.jpg"
+    ]
+  },
+  {
+    "id": 181,
+    "title": "Perfume",
+    "description": "High-quality perfume by H&M with premium build and performance.",
+    "price": "\u20b940340",
+    "category": "beauty",
+    "brand": "H&M",
+    "rating": 4.2,
+    "stock": 129,
+    "thumbnail": "https://i.dummyjson.com/data/products/20/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/2/1.jpg",
+      "https://i.dummyjson.com/data/products/1/2.jpg"
+    ]
+  },
+  {
+    "id": 182,
+    "title": "Office Chair",
+    "description": "High-quality office chair by Adidas with premium build and performance.",
+    "price": "\u20b91317",
+    "category": "furniture",
+    "brand": "Adidas",
+    "rating": 3.9,
+    "stock": 135,
+    "thumbnail": "https://i.dummyjson.com/data/products/4/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/3/1.jpg",
+      "https://i.dummyjson.com/data/products/4/2.jpg"
+    ]
+  },
+  {
+    "id": 183,
+    "title": "Bed Frame",
+    "description": "High-quality bed frame by WoodCraft with premium build and performance.",
+    "price": "\u20b989480",
+    "category": "furniture",
+    "brand": "WoodCraft",
+    "rating": 4.9,
+    "stock": 58,
+    "thumbnail": "https://i.dummyjson.com/data/products/29/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/16/1.jpg",
+      "https://i.dummyjson.com/data/products/17/2.jpg"
+    ]
+  },
+  {
+    "id": 184,
+    "title": "Sofa Set",
+    "description": "High-quality sofa set by Samsung with premium build and performance.",
+    "price": "\u20b974040",
+    "category": "furniture",
+    "brand": "Samsung",
+    "rating": 4.7,
+    "stock": 86,
+    "thumbnail": "https://i.dummyjson.com/data/products/20/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/6/1.jpg",
+      "https://i.dummyjson.com/data/products/21/2.jpg"
+    ]
+  },
+  {
+    "id": 185,
+    "title": "Wrist Watch",
+    "description": "High-quality wrist watch by Puma with premium build and performance.",
+    "price": "\u20b951215",
+    "category": "fashion",
+    "brand": "Puma",
+    "rating": 3.7,
+    "stock": 14,
+    "thumbnail": "https://i.dummyjson.com/data/products/26/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/23/1.jpg",
+      "https://i.dummyjson.com/data/products/11/2.jpg"
+    ]
+  },
+  {
+    "id": 186,
+    "title": "Men's T-Shirt",
+    "description": "High-quality men's t-shirt by Samsung with premium build and performance.",
+    "price": "\u20b990851",
+    "category": "fashion",
+    "brand": "Samsung",
+    "rating": 4.5,
+    "stock": 147,
+    "thumbnail": "https://i.dummyjson.com/data/products/6/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/12/1.jpg",
+      "https://i.dummyjson.com/data/products/10/2.jpg"
+    ]
+  },
+  {
+    "id": 187,
+    "title": "Jeans",
+    "description": "High-quality jeans by WoodCraft with premium build and performance.",
+    "price": "\u20b961844",
+    "category": "fashion",
+    "brand": "WoodCraft",
+    "rating": 4.1,
+    "stock": 46,
+    "thumbnail": "https://i.dummyjson.com/data/products/30/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/25/1.jpg",
+      "https://i.dummyjson.com/data/products/19/2.jpg"
+    ]
+  },
+  {
+    "id": 188,
+    "title": "Wireless Headphones",
+    "description": "High-quality wireless headphones by Adidas with premium build and performance.",
+    "price": "\u20b927015",
+    "category": "electronics",
+    "brand": "Adidas",
+    "rating": 4.6,
+    "stock": 49,
+    "thumbnail": "https://i.dummyjson.com/data/products/26/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/7/1.jpg",
+      "https://i.dummyjson.com/data/products/25/2.jpg"
+    ]
+  },
+  {
+    "id": 189,
+    "title": "Wrist Watch",
+    "description": "High-quality wrist watch by Philips with premium build and performance.",
+    "price": "\u20b987827",
+    "category": "fashion",
+    "brand": "Philips",
+    "rating": 4.2,
+    "stock": 57,
+    "thumbnail": "https://i.dummyjson.com/data/products/20/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/24/1.jpg",
+      "https://i.dummyjson.com/data/products/23/2.jpg"
+    ]
+  },
+  {
+    "id": 190,
+    "title": "Organic Rice",
+    "description": "High-quality organic rice by Samsung with premium build and performance.",
+    "price": "\u20b987420",
+    "category": "grocery",
+    "brand": "Samsung",
+    "rating": 4.5,
+    "stock": 154,
+    "thumbnail": "https://i.dummyjson.com/data/products/6/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/5/1.jpg",
+      "https://i.dummyjson.com/data/products/15/2.jpg"
+    ]
+  },
+  {
+    "id": 191,
+    "title": "Bookshelf",
+    "description": "High-quality bookshelf by Philips with premium build and performance.",
+    "price": "\u20b918568",
+    "category": "furniture",
+    "brand": "Philips",
+    "rating": 3.9,
+    "stock": 188,
+    "thumbnail": "https://i.dummyjson.com/data/products/24/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/11/1.jpg",
+      "https://i.dummyjson.com/data/products/22/2.jpg"
+    ]
+  },
+  {
+    "id": 192,
+    "title": "Office Chair",
+    "description": "High-quality office chair by Mi with premium build and performance.",
+    "price": "\u20b913903",
+    "category": "furniture",
+    "brand": "Mi",
+    "rating": 3.4,
+    "stock": 31,
+    "thumbnail": "https://i.dummyjson.com/data/products/1/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/16/1.jpg",
+      "https://i.dummyjson.com/data/products/5/2.jpg"
+    ]
+  },
+  {
+    "id": 193,
+    "title": "Wardrobe",
+    "description": "High-quality wardrobe by Loreal with premium build and performance.",
+    "price": "\u20b998316",
+    "category": "furniture",
+    "brand": "Loreal",
+    "rating": 3.5,
+    "stock": 107,
+    "thumbnail": "https://i.dummyjson.com/data/products/4/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/12/1.jpg",
+      "https://i.dummyjson.com/data/products/8/2.jpg"
+    ]
+  },
+  {
+    "id": 194,
+    "title": "Lipstick",
+    "description": "High-quality lipstick by Apple with premium build and performance.",
+    "price": "\u20b977827",
+    "category": "beauty",
+    "brand": "Apple",
+    "rating": 4.7,
+    "stock": 28,
+    "thumbnail": "https://i.dummyjson.com/data/products/10/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/5/1.jpg",
+      "https://i.dummyjson.com/data/products/25/2.jpg"
+    ]
+  },
+  {
+    "id": 195,
+    "title": "Smartphone",
+    "description": "High-quality smartphone by Nestle with premium build and performance.",
+    "price": "\u20b931042",
+    "category": "electronics",
+    "brand": "Nestle",
+    "rating": 4.5,
+    "stock": 85,
+    "thumbnail": "https://i.dummyjson.com/data/products/28/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/2/1.jpg",
+      "https://i.dummyjson.com/data/products/23/2.jpg"
+    ]
+  },
+  {
+    "id": 196,
+    "title": "Dining Table",
+    "description": "High-quality dining table by Samsung with premium build and performance.",
+    "price": "\u20b964937",
+    "category": "furniture",
+    "brand": "Samsung",
+    "rating": 4.2,
+    "stock": 123,
+    "thumbnail": "https://i.dummyjson.com/data/products/5/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/26/1.jpg",
+      "https://i.dummyjson.com/data/products/7/2.jpg"
+    ]
+  },
+  {
+    "id": 197,
+    "title": "Bookshelf",
+    "description": "High-quality bookshelf by Nike with premium build and performance.",
+    "price": "\u20b966495",
+    "category": "furniture",
+    "brand": "Nike",
+    "rating": 3.1,
+    "stock": 57,
+    "thumbnail": "https://i.dummyjson.com/data/products/27/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/30/1.jpg",
+      "https://i.dummyjson.com/data/products/22/2.jpg"
+    ]
+  },
+  {
+    "id": 198,
+    "title": "Hair Serum",
+    "description": "High-quality hair serum by Boat with premium build and performance.",
+    "price": "\u20b968757",
+    "category": "beauty",
+    "brand": "Boat",
+    "rating": 3.7,
+    "stock": 38,
+    "thumbnail": "https://i.dummyjson.com/data/products/3/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/10/1.jpg",
+      "https://i.dummyjson.com/data/products/1/2.jpg"
+    ]
+  },
+  {
+    "id": 199,
+    "title": "Dining Table",
+    "description": "High-quality dining table by Puma with premium build and performance.",
+    "price": "\u20b922184",
+    "category": "furniture",
+    "brand": "Puma",
+    "rating": 3.5,
+    "stock": 130,
+    "thumbnail": "https://i.dummyjson.com/data/products/13/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/20/1.jpg",
+      "https://i.dummyjson.com/data/products/18/2.jpg"
+    ]
+  },
+  {
+    "id": 200,
+    "title": "Wireless Headphones",
+    "description": "High-quality wireless headphones by Apple with premium build and performance.",
+    "price": "\u20b944154",
+    "category": "electronics",
+    "brand": "Apple",
+    "rating": 3.8,
+    "stock": 121,
+    "thumbnail": "https://i.dummyjson.com/data/products/23/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/10/1.jpg",
+      "https://i.dummyjson.com/data/products/30/2.jpg"
+    ]
+  }
+]
