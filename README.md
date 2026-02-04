@@ -1,75 +1,84 @@
-🛒 iCommerce
-Modern, Scalable & API-Driven eCommerce Frontend
+# 🛒 iCommerce  
+### Modern, Scalable & API-Driven eCommerce Frontend
 
-iCommerce is a fully functional modern eCommerce frontend application built using React 19 + Vite, designed with a strong focus on user experience, performance, and clean architecture.
-The application integrates real-time API data, authentication, filtering, cart persistence, and responsive UI patterns commonly used in production-level eCommerce platforms.
+**iCommerce** is a fully functional modern eCommerce frontend application built using **React 19 + Vite**, designed with a strong focus on **user experience, performance, and clean architecture**.
 
-🌐 Live Demo: (Add Netlify URL)
+The application integrates **real-time API data**, **authentication**, **filtering**, **cart persistence**, and **responsive UI patterns** commonly used in production-level eCommerce platforms.
 
-✨ Core Features
+🌐 **Live Demo:** _(Add Netlify URL)_
 
-🛍️ Product & Catalog
-API-based product fetching
-Structured and reusable product components
-Clean product listing layout
+---
 
-🔍 Filtering System
-Category-based filtering
-Instant UI updates without reload
-Scalable filter architecture
-🛒 Cart Management
-Add / remove products
-Quantity updates
-Persistent cart using Local Storage
-Cart state maintained across refreshes
+## ✨ Core Features
 
-📍 Location Detection
-User location fetched via API
-Location data displayed dynamically
-Improves personalization potential
+### 🛍️ Product & Catalog
+- API-based product fetching  
+- Structured and reusable product components  
+- Clean product listing layout  
 
-🔐 Authentication (Clerk)
-Secure Login & Signup
-Session-based user handling
-Ready for protected routes & user-specific features
+### 🔍 Filtering System
+- Category-based filtering  
+- Instant UI updates without page reload  
+- Scalable filter architecture  
 
-🎨 UI & UX
-Fully responsive design (Mobile / Tablet / Desktop)
-Modern component-based layout
-Toast notifications for user actions
-Product sliders & carousels
+### 🛒 Cart Management
+- Add / remove products  
+- Update product quantities  
+- Persistent cart using **Local Storage**  
+- Cart state maintained across refreshes  
 
-📄 Pages Implemented
-🏠 Home Page
-🛍️ Products Listing
-🔍 Filter Section
-🛒 Cart Page
+### 📍 Location Detection
+- User location fetched via API  
+- Location data displayed dynamically  
+- Improves personalization potential  
 
-🧱 Tech Stack
+### 🔐 Authentication (Clerk)
+- Secure Login & Signup  
+- Session-based user handling  
+- Ready for protected routes & user-specific features  
 
-⚛️ Frontend
-React 19
-Vite
-React Router DOM
-Tailwind CSS
+### 🎨 UI & UX
+- Fully responsive design (Mobile / Tablet / Desktop)  
+- Modern component-based layout  
+- Toast notifications for user actions  
+- Product sliders & carousels  
 
-🔐 Authentication
-Clerk
+---
 
-🔄 Data Handling
-Axios (API requests)
-Local Storage (cart persistence)
-React Context API (state management)
+## 📄 Pages Implemented
+- 🏠 Home Page  
+- 🛍️ Products Listing  
+- 🔍 Filter Section  
+- 🛒 Cart Page  
+- 🔐 Login / Signup  
+- 🔒 Auth-Protected Sections  
 
-🎨 UI Libraries
-React Icons
-Lucide React
-React Toastify
-React Slick
-Slick Carousel
+---
 
-👨‍💻 Author
-Mohit
-🔐 Login / Signup
+## 🧱 Tech Stack
 
-🔒 Auth-Protected Sections
+### ⚛️ Frontend
+- React 19  
+- Vite  
+- React Router DOM  
+- Tailwind CSS  
+
+### 🔐 Authentication
+- Clerk  
+
+### 🔄 Data Handling
+- Axios (API requests)  
+- Local Storage (cart persistence)  
+- React Context API (state management)  
+
+### 🎨 UI Libraries
+- React Icons  
+- Lucide React  
+- React Toastify  
+- React Slick  
+- Slick Carousel  
+
+---
+
+## 👨‍💻 Author
+**Mohit**
