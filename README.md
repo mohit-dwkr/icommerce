@@ -5,7 +5,7 @@
 
 The application integrates **real-time API data**, **authentication**, **filtering**, **cart persistence**, and **responsive UI patterns** commonly used in production-level eCommerce platforms.
 
-🌐 **Live Demo:** icommerce-by-mohit.netlify.app
+🌐 **Live Demo:**[ icommerce-by-mohit.netlify.app](https://icommerce-by-mohit.netlify.app/)
 
 ---
 
